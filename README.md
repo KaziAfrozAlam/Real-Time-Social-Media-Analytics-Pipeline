@@ -1,5 +1,5 @@
 
-# 🐦 Real-Time Twitter Sentiment Analysis
+# 🐦 Real-Time Social Media Analysis Pipeline
 
 This project performs **real-time sentiment analysis** on live Twitter data using **Apache Kafka**, **Apache Spark**, and **PySpark ML**. It streams tweets, processes them using a trained machine learning model, and displays sentiment predictions (positive, negative, neutral) in real-time.
 
@@ -121,9 +121,9 @@ Sentiment: Negative (1.0)
 
 ## 🙌 Contributors
 
-- **Priyesh Kumar Sah**
-- Based on base repo by [@drisskhattabi6](https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis)
-
+- **Ranjit kumar Behra**
+- **Mitali Trivedi**
+- **Kazi Afroz Alam**
 ---
 
 ## 📜 License
